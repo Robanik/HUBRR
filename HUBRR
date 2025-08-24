@@ -220,6 +220,10 @@ AddButton("HORRORS", "rainbow friends 2", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/Rainbow_Friends_By_Robanik/refs/heads/main/RAINBOWFRIENDS2"))()
 end)
 
+AddButton("HORRORS", "evade", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/EVADE_ROBANIK/refs/heads/main/ROBANIK_EVADE"))()
+end)
+
 ------------------------------------------------
 
 AddButton("SHOOTER", "arsenal", function()
