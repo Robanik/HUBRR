@@ -230,6 +230,10 @@ AddButton("SHOOTER", "arsenal", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/ARSENAL_ROBANIK/refs/heads/main/ARSENAL_ROBANIK"))()
 end)
 
+AddButton("SHOOTER", "rivals", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/RIVALS_ROBANIK/refs/heads/main/Rivals_ROBANIK"))()
+end)
+
 ------------------------------------------------
 
 AddButton("CREDITS", "CREDIT", function()
