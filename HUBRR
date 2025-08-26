@@ -234,6 +234,10 @@ AddButton("SHOOTER", "rivals", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/RIVALS_ROBANIK/refs/heads/main/Rivals_ROBANIK"))()
 end)
 
+AddButton("SHOOTER", "no scope arcade", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/NOSCOPE_ROBANIK/refs/heads/main/NOSCOPERR"))()
+end)
+
 ------------------------------------------------
 
 AddButton("CREDITS", "CREDIT", function()
