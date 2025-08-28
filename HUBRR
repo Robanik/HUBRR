@@ -224,6 +224,10 @@ AddButton("HORRORS", "evade", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/EVADE_ROBANIK/refs/heads/main/ROBANIK_EVADE"))()
 end)
 
+AddButton("HORRORS", "99 night...", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/99_night_premium_menu/refs/heads/main/99MENUROBANIK"))()
+end)
+
 ------------------------------------------------
 
 AddButton("SHOOTER", "arsenal", function()
